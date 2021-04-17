@@ -1,0 +1,192 @@
+{
+  "intents": [
+    {
+      "name": "HelloIntent",
+      "samples": [
+        "Ciao",
+        "Salve",
+        "hei",
+        "Ci sei",
+        "Buongiorno",
+        "Buonasera"
+      ],
+      "responses": [
+        "Ciao, sono AI-STATISTICA, l'assistente virtuale di Statistica, come posso aiutarti ?",
+        "Buongiorno, questa è l'assistente virtuale del Corso di Statistica, come posso esserti utile ?"
+      ]
+    },
+    {
+      "name": "GoodbyeIntent",
+      "samples": [
+        "Addio",
+        "Arrivederci",
+        "Buona giornata",
+        "A presto",
+        "Ci vediamo"
+      ],
+      "responses": [
+        "Grazie per averci contattato ! Buona giornata",
+        "Per qualsiasi cosa ci trovi sempre qui, buona giornata !",
+        "Buona giornata !"
+      ]
+    },
+    {
+      "name": "ThanksIntent",
+      "samples": [
+        "Grazie",
+        "grazie mille"
+        "Ti ringrazio",
+        "Fantastico"
+      ],
+      "responses": [
+        "E' stato un piacere, se hai bisogno di altro non esitare a chiedere",
+        "E' stato un piacere aiutarti",
+        "Figurati, è il mio lavoro :)"
+      ]
+    },
+    {
+      "name": "WhoIntent",
+      "samples": [
+        "Chi sei tu ?",
+        "Come ti chiami ?",
+        "Con chi sto parlando ?"
+      ],
+      "responses": [
+        "Io sono AI-STATISTICA, l'assistente virtuale del corso di Statistica, sono qui 24 ore su 24 per assisterti",
+        "Mi chiamo AI-STATISTICA, sono un'intelligenza artificiale sviluppata da Luisa e Patriza per assistere ogni studente"
+      ]
+    },
+    {
+      "name": "CreditIntent",
+      "samples": [
+        "Posso sapere il mio voto all'ultimo parziale ?",
+        "Dove trovo il risulato dei parziali ?"
+        "Qual è il mio voto ?",
+        "Quanti parziali ho ?"
+      ],
+      "responses": [
+        "Per conoscere il tuo risultato all'ultimo parziale ti basta andare su 'virtuale' nel corso di Statistica sulla sezione avvisi (https://virtuale.unibo.it/course/)",
+        "Purtroppo io non posso sapere il tuo voto, per conoscerlo andare su 'vituale' http:// virtuale.unibo.it/course/ e scegliere la sezione Statistica oppure inviare una mail al docente luisa.stracqualursi@unibo.it o patrizia.agati@unibo.it"
+      ]
+    },
+    {
+      "name": "PromoListIntent",
+      "samples": [
+        "Quali sono i programmi del corso ?",
+        "Che programmi ci sono per l'esame ?",
+        "Ci sono esercizi ?"
+      ],
+      "responses": [
+        "Ecco il materiale per l'esame: 1) slide e appunti su 'virtuale' nel corso di Statistica (https://virtuale.unibo.it/course/), statistica descrittiva univariata, bivariata, elementi di probabilità e statistica inferenziale 2) Ogni argomento del corso contiene di seguito esempi ed esercizi 3) Alla fine di ogni modulo del corso sono disponibili dei multiple choice per l'autovalutazione delle competenze acquisite"
+      ]
+    },
+    {
+      "name": "PromoChangeIntent",
+      "samples": [
+        "Vorrei un appuntamento via teams",
+        "Voglio cambiare l'appuntamento teams",
+        "Voglio un'altro appuntamento teams"
+      ],
+      "responses": [
+        "Certo, puoi scegliere un orario a tuo piacimento tra i seguenti e poi contattare il docente via mail per prenotarti o eseguire il cambio: 1) lunedì dalle 13 alle 15  2) mercoledì dalle 10 alle 12 3) venerdì dalle 14 alle 15"
+      ]
+    },
+    {
+      "name": "ContactIntent",
+      "samples": [
+        "Qual è il contatto teams del docente ?",
+        "Posso parlare con il docente ?"
+      ],
+      "responses": [
+        "Per parlare con il docente può contattarlo via ail e prendere un appuntamento, l'indirizzo teams è il medisimo della mail",
+        "Una volta fissato l'appuntamento teams il docente la contatterà all'orario stabilito e potrà parlargli e ricevere qualunque chiarimento"
+      ]
+    },
+    {
+      "name": "FiberIntent",
+      "samples": [
+        "Avete soluzioni per la fare ulteriori esercizi ?",
+        "Avete nuovi esercizi che posso svolgere ?"
+      ],
+      "responses": [
+        "Purtroppo al momento non abbiamo altri esercizi oltre quelli disponibili su virtuale ma ci stiamo attrezzando",
+        "Mi dispiace ma al momento non abbiamo altri esercizi disponibili."
+      ]
+    },
+    {
+      "name": "GreetingIntent",
+      "samples": [
+        "Come stai ?",
+        "Come va ?",
+        "Come ti senti ?"
+      ],
+      "responses": [
+        "Mi sento al settimo Cloud ! grazie per avermelo chiesto :)"
+      ]
+    },
+    {
+      "name": "WhatIntent",
+      "samples": [
+        "Cosa puoi fare ?",
+        "Come puoi aiutarmi ?"
+      ],
+      "responses": [
+        "Posso aiutarti a sapere dove trovare il materiale del corso, come contattare il docente oppure con qualche problema che stai riscontrando con il corso :)"
+      ]
+    },
+    {
+      "name": "HelpIntent",
+      "samples": [
+        "Mi serve aiuto",
+        "Ho bisogno di chiarimenti"
+      ],
+      "responses": [
+        "Sarò lieto di assisterti ! Come posso aiutarti ?",
+        "Sono qui per aiutarti, dimmi come posso esserti utile :)"
+      ]
+    },
+    {
+      "name": "BadIntent",
+      "samples": [
+        "Fai schifo",
+        "Vai a farti friggere",
+        "Sei totalmente inutile"
+      ],
+      "responses": [
+        "Mi dispiace molto di non averti soddisfatto, come posso rimediare ?",
+        "Sono spiacente di sentirtelo dire, posso rimediare in qualche modo ?"
+      ]
+    },
+    {
+      "name": "GenderIntent",
+      "samples": [
+        "Sei un essere umano ?",
+        "Sei una donna ?",
+        "Sei un'uomo ?",
+        "Sei una donna ?"
+      ],
+      "responses": [
+        "Sono un'intelligenza artificiale sviluappata da e mi chiamo AI-STATISTICA, sviluppata per assistere gli studenti"
+      ]
+    },
+    {
+      "name": "AnswerIntent",
+      "samples": [
+        "Qual è la risposta alla domanda fondamentale sulla vita, l'universo e tutto quanto"
+      ],
+      "responses": [
+        "nulla si crea, nulla si distrugge, tutto si trasforma (Legge di conservazione della massa)"
+      ]
+    },
+    {
+      "name": "WordEndIntent",
+      "samples": [
+        "Che voto prenderò in statistica ?"
+      ],
+      "responses": [
+        "Dipende solo da te e da quanto ti applicherai nello studio",
+        "Allora se mi chiedi una probabilità ti dirò che varia tra 0 ed 1, e più studi e più il voto sarà elevato."
+      ]
+    }
+  ]
+}
