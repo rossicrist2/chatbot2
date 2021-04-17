@@ -34,7 +34,7 @@
       "name": "ThanksIntent",
       "samples": [
         "Grazie",
-        "grazie mille"
+        "grazie mille",
         "Ti ringrazio",
         "Fantastico"
       ],
@@ -60,7 +60,7 @@
       "name": "CreditIntent",
       "samples": [
         "Posso sapere il mio voto all'ultimo parziale ?",
-        "Dove trovo il risulato dei parziali ?"
+        "Dove trovo il risulato dei parziali ?",
         "Qual è il mio voto ?",
         "Quanti parziali ho ?"
       ],
