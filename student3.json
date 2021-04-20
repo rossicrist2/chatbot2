@@ -43,17 +43,6 @@
       ]
     },
     {
-      "name": "GrazieIntent",
-      "samples": [
-        "grazie",
-        "sei gentile"
-      ],
-      "responses": [
-        "Prego",
-        "Prego, siamo qui sei hai bisogno."
-      ]
-    },
-    {
       "name": "WhoIntent",
       "samples": [
         "Chi sei tu ?",
