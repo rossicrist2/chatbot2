@@ -46,7 +46,7 @@
     {
       "name": "WhoIntent",
       "samples": [
-        "Chi sei tu ?",
+        "Chi sei ?",
         "Come ti chiami ?",
         "Con chi sto parlando ?"
       ],
@@ -58,6 +58,10 @@
     {
       "name": "VoteIntent",
       "samples": [
+        "parziale",
+        "voti parziali",
+        "voti esami",
+        "risulatati",
         "Posso sapere il mio voto all'ultimo parziale ?",
         "Dove trovo il risulato dei parziali ?",
         "Qual è il mio voto ?",
