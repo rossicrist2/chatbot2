@@ -38,12 +38,19 @@
         "Ti ringrazio",
         "Fantastico"
       ],
-      {
-      "name": "ringranzIntent",
+        "responses": [
+        "E' stato un piacere, se hai bisogno di altro non esitare a chiedere",
+        "E' stato un piacere aiutarti",
+        "Figurati, è il mio lavoro :)"
+      ]
+    },
+        {
+      "name": "GratitudeIntent",
       "samples": [
-        "grazie"
+        "grazie".
+        "sei gentile"
       ],
-      "responses": [
+          "responses": [
         "E' stato un piacere, se hai bisogno di altro non esitare a chiedere",
         "E' stato un piacere aiutarti",
         "Figurati, è il mio lavoro :)"
