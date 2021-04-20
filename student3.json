@@ -81,7 +81,7 @@
       ]
     },
     {
-      "name": "PromoChangeIntent",
+      "name": "AppointmentIntent",
       "samples": [
         "Vorrei un appuntamento via teams",
         "Voglio cambiare l'appuntamento teams",
