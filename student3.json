@@ -31,20 +31,6 @@
       ]
     },
     {
-      "name": "ThanksIntent",
-      "samples": [
-        "Grazie",
-        "grazie mille",
-        "Ti ringrazio",
-        "Fantastico"
-      ],
-        "responses": [
-        "E' stato un piacere, se hai bisogno di altro non esitare a chiedere",
-        "E' stato un piacere aiutarti",
-        "Figurati, è il mio lavoro :)"
-      ]
-    },
-        {
       "name": "GratitudeIntent",
       "samples": [
         "grazie".
