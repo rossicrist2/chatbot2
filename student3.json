@@ -47,7 +47,7 @@
     {
       "name": "WhoIntent",
       "samples": [
-        "Chi sei ?",
+        "Tu Chi sei ?",
         "Come ti chiami ?",
         "Con chi sto parlando ?"
       ],
