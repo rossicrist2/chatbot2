@@ -33,10 +33,15 @@
     {
       "name": "ThanksIntent",
       "samples": [
-        "Grazio",
+        "Grazie",
         "grazie mille",
         "Ti ringrazio",
         "Fantastico"
+      ],
+      {
+      "name": "ringranzIntent",
+      "samples": [
+        "grazie"
       ],
       "responses": [
         "E' stato un piacere, se hai bisogno di altro non esitare a chiedere",
