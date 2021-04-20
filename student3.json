@@ -33,7 +33,7 @@
     {
       "name": "GratitudeIntent",
       "samples": [
-        "grazie".
+        "grazie",
         "sei gentile"
       ],
           "responses": [
