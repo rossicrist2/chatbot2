@@ -55,7 +55,7 @@
       ]
     },
     {
-      "name": "CreditIntent",
+      "name": "VoteIntent",
       "samples": [
         "Posso sapere il mio voto all'ultimo parziale ?",
         "Dove trovo il risulato dei parziali ?",
