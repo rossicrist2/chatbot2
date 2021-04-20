@@ -103,7 +103,7 @@
       ]
     },
     {
-      "name": "FiberIntent",
+      "name": "ExercisesIntent",
       "samples": [
         "Avete soluzioni per la fare ulteriori esercizi ?",
         "Avete nuovi esercizi che posso svolgere ?"
