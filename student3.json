@@ -23,7 +23,8 @@
         "Arrivederci",
         "Buona giornata",
         "A presto",
-        "Ci vediamo"
+        "Ci vediamo",
+        "bye"
       ],
       "responses": [
         "Grazie per averci contattato ! Buona giornata",
@@ -61,7 +62,7 @@
         "parziale",
         "voti parziali",
         "voti esami",
-        "risulatati",
+        "risultati",
         "Posso sapere il mio voto all'ultimo parziale ?",
         "Dove trovo il risulato dei parziali ?",
         "Qual è il mio voto ?",
