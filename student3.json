@@ -19,6 +19,7 @@
       "name": "GoodbyeIntent",
       "samples": [
         "Addio",
+        "ok",
         "Arrivederci",
         "Buona giornata",
         "A presto",
